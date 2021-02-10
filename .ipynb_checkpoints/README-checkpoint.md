@@ -13,8 +13,3 @@
 - [`bit`](https://ofek.github.io/bit/) Python Bitcoin library.
 
 - [`web3.py`](https://github.com/ethereum/web3.py) Python Ethereum library.
-
-
-
-Bip39 Mnemonic:
-define sample clip alarm lazy bone doll vendor tell garage jealous dolphin
